@@ -4,7 +4,7 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kakbar&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hey There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
@@ -15,7 +15,7 @@ I am a Senior iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Tech Lead and contributing to mobile applications.
 - 🌱 Exploring Blockchain Technology.
 - ⚡ In my free time I explore new technology and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MD Aslam Ansari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-aslam-ansari)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MD%20Aslam%20Ansari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-aslam-ansari)
 
 ---
 
@@ -49,5 +49,7 @@ I am a Senior iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+| <a href="https://github.com/mdaslamansari2008/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdaslamansari2008&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Aslam's github stats" /></a> | <a href="https://github.com/mdaslamansari2008/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdaslamansari2008&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
