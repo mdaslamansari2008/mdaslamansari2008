@@ -1,21 +1,3 @@
-### Hi there 👋
-
-<!--
-**mdaslamansari2008/mdaslamansari2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/md-aslam-ansari"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -33,7 +15,7 @@ I am a Senior iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 🔭 I’m working as a Tech Lead and contributing to mobile applications.
 - 🌱 Exploring Blockchain Technology.
 - ⚡ In my free time I explore new technology and read tech articles.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-aslam-ansari)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-MD Aslam Ansari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/md-aslam-ansari)
 
 ---
 
@@ -67,10 +49,5 @@ I am a Senior iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
